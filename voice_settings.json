@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "listen": false,
+  "voice": "Samantha",
+  "rate": 185,
+  "window_sec": 300,
+  "sliding_window": true,
+  "stt_model": "medium.en",
+  "language": "en",
+  "sensitivity": 1.0,
+  "end_silence_ms": 700,
+  "barge_in": true,
+  "ack_phrase": "Yes?",
+  "speak_chatter": true,
+  "quiet_apps": [
+    "zoom.us",
+    "FaceTime",
+    "Microsoft Teams",
+    "Webex"
+  ],
+  "input_device": null,
+  "max_spoken_chars": 400,
+  "kokoro_voice": "am_michael"
+}

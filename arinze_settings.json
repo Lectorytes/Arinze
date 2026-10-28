@@ -1,0 +1,19 @@
+{
+ "fun_facts": true,
+ "fact_minutes": [
+  30,
+  90
+ ],
+ "surprises": true,
+ "surprise_minutes": [
+  90,
+  240
+ ],
+ "learn_from_chat": true,
+ "track_apps": true,
+ "welcome_back": true,
+ "late_night_nudge": true,
+ "react_power": true,
+ "react_spotify": true,
+ "quiet_hours": []
+}
